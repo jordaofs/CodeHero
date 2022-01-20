@@ -1,0 +1,15 @@
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/codehero/MainActivity.java
+ com.codehero.MainActivity
+ com.codehero.MainActivity$1
+com/codehero/ReactNativeFlipper.java
+ com.codehero.ReactNativeFlipper
+ com.codehero.ReactNativeFlipper$1
+ com.codehero.ReactNativeFlipper$2
+ com.codehero.ReactNativeFlipper$2$1
+com/codehero/BuildConfig.java
+ com.codehero.BuildConfig
+com/codehero/MainApplication.java
+ com.codehero.MainApplication
+ com.codehero.MainApplication$1

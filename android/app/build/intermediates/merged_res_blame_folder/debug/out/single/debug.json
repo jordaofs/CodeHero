@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/home/jordaofs/Documents/code/CodeHero/android/app/build/intermediates/res/merged/debug/drawable-mdpi_marvel.png.flat",
+        "source": "/home/jordaofs/Documents/code/CodeHero/android/app/src/main/res/drawable-mdpi/marvel.png"
+    },
+    {
+        "merged": "/home/jordaofs/Documents/code/CodeHero/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/jordaofs/Documents/code/CodeHero/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jordaofs/Documents/code/CodeHero/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_bootsplash_logo.png.flat",
+        "source": "/home/jordaofs/Documents/code/CodeHero/android/app/src/main/res/mipmap-xhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/home/jordaofs/Documents/code/CodeHero/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_marvel.png.flat",
+        "source": "/home/jordaofs/Documents/code/CodeHero/android/app/src/main/res/drawable-xxhdpi/marvel.png"
+    },
+    {
+        "merged": "/home/jordaofs/Documents/code/CodeHero/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_bootsplash_logo.png.flat",
+        "source": "/home/jordaofs/Documents/code/CodeHero/android/app/src/main/res/mipmap-xxxhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/home/jordaofs/Documents/code/CodeHero/android/app/build/intermediates/res/merged/debug/drawable-hdpi_marvel.png.flat",
+        "source": "/home/jordaofs/Documents/code/CodeHero/android/app/src/main/res/drawable-hdpi/marvel.png"
+    },
+    {
+        "merged": "/home/jordaofs/Documents/code/CodeHero/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/jordaofs/Documents/code/CodeHero/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jordaofs/Documents/code/CodeHero/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/jordaofs/Documents/code/CodeHero/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jordaofs/Documents/code/CodeHero/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/jordaofs/Documents/code/CodeHero/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jordaofs/Documents/code/CodeHero/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/jordaofs/Documents/code/CodeHero/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jordaofs/Documents/code/CodeHero/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_marvel.png.flat",
+        "source": "/home/jordaofs/Documents/code/CodeHero/android/app/src/main/res/drawable-xxxhdpi/marvel.png"
+    },
+    {
+        "merged": "/home/jordaofs/Documents/code/CodeHero/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/jordaofs/Documents/code/CodeHero/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jordaofs/Documents/code/CodeHero/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_bootsplash_logo.png.flat",
+        "source": "/home/jordaofs/Documents/code/CodeHero/android/app/src/main/res/mipmap-mdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/home/jordaofs/Documents/code/CodeHero/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_bootsplash_logo.png.flat",
+        "source": "/home/jordaofs/Documents/code/CodeHero/android/app/src/main/res/mipmap-hdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/home/jordaofs/Documents/code/CodeHero/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/jordaofs/Documents/code/CodeHero/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jordaofs/Documents/code/CodeHero/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/jordaofs/Documents/code/CodeHero/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jordaofs/Documents/code/CodeHero/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/jordaofs/Documents/code/CodeHero/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jordaofs/Documents/code/CodeHero/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_marvel.png.flat",
+        "source": "/home/jordaofs/Documents/code/CodeHero/android/app/src/main/res/drawable-xhdpi/marvel.png"
+    },
+    {
+        "merged": "/home/jordaofs/Documents/code/CodeHero/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/jordaofs/Documents/code/CodeHero/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jordaofs/Documents/code/CodeHero/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_bootsplash_logo.png.flat",
+        "source": "/home/jordaofs/Documents/code/CodeHero/android/app/src/main/res/mipmap-xxhdpi/bootsplash_logo.png"
+    }
+]
